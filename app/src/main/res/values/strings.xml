@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="pick_date">D/M/Y</string>
+    <string name="register">Registro</string>
+    <string name="nombre">Nombre: </string>
+    <string name="apellido">Apellido: </string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre2">Name</string>
+    <string name="apellido2">Last Name</string>
+    <string name="info">Informacion</string>
+    <string name="correoe">Correo electrónico: </string>
+    <string name="correoe2">E-mail</string>
+    <string name="numtel">Telefono: </string>
+    <string name="numtel2">Telephone</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="comer">Comer</string>
+    <string name="bailar">Bailar</string>
+    <string name="ciudades">Elegir Ciudad: </string>
+    <string name="date">Fecha de Nacimiento:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="password">Password</string>
+    <string name="contraseña2">Repetir Contraseña:</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Itagui</item>
+        <item>Envigado</item>
+        <item>Sabaneta</item>
+        <item>Bello</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena de Indias</item>
+        <item>Soledad</item>
+        <item>Cúcuta</item>
+        <item>Ibagué</item>
+        <item>Soacha</item>
+        <item>Bucaramanga</item>
+        <item>Santa Marta</item>
+        <item>Villavicencio</item>
+        <item>Valledupar</item>
+        <item>Pereira</item>
+        <item>Buenaventura</item>
+        <item>Pasto</item>
+        <item>Manizales</item>
+        <item>Montería</item>
+        <item>Neiva</item>
+    </string-array>
+</resources>
